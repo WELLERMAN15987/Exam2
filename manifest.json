@@ -1,0 +1,21 @@
+{
+    "scope":"/",
+    "start_url": "index.html",
+    "display": "standalone",
+    "short_name": "Roberto",
+    "name": "Roberto Pantoja",
+    "background_color":"#ffffff",
+    "description": "Examen P2",
+    "theme_color":"#ffffff",
+    "orientation": "portrait",
+    "icons":[
+        {
+            "src":"icono3.png",
+            "type":"image/png",
+            "sizes":"348x348",
+            "purpose":"any"
+        }
+    ]
+
+    
+}
